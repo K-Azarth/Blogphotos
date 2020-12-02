@@ -1,0 +1,21 @@
+#heading {
+    font-size: 40; 
+    color: chocolate;
+    font-family: monospace; 
+    font-variant: small-caps; 
+}
+img {
+    width: 800px;
+    height: 650px; 
+    border: 12px; 
+    border-color: red;
+}
+p {
+    font-size: 28px; 
+    color: aqua;
+}
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+    
+}
